@@ -2,7 +2,7 @@ import telebot
 import time
 import random
 
-TOKEN = ("7025177765:AAG9Sl4UrXSAYv2PAlcjsLpYy3xjO8S3djg")
+TOKEN = ("token")
 bot = telebot.TeleBot(TOKEN)
 
 class Pet:
